@@ -1,1 +1,1 @@
-istanbul-repo.files.tar.gz.sig
+istanbul-repo.files.tar.zst.sig
